@@ -1,0 +1,11 @@
+Picture Size X
+Picture Size Y
+Number of pictures
+Creature Name
+Speed
+Strength
+Picture Change interval (in miliseconds)
+AI Type (Dumb(can hunt&shoot), Dumber(walks and shoots randomly),Dumberer(just walks)) 
+Smartness (less is better, this is actualy, how many chances are, he will "think" per frame (if its 3 then theres 33%, if 2, 50%))
+Gun Y offset (Fix the carry height of the gun)
+Animation style (0 animate while walking, 1 repetitive animation)

@@ -1,0 +1,7 @@
+*.local
+*.identcache
+*.dll
+*.dcu
+*.bak
+__history/*
+res/*

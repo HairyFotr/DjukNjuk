@@ -1,0 +1,12 @@
+Ime - Name 
+Kok visok se nos orožje - Height of weapon carry
+Kok visok naprej se nos orožje - Horizontal of weapon carry
+Kok moèi vzame - Damage
+Trail (None, Normal, šibr) - Trail style (None, Normal, shot gun)
+Eksplozija (None, Tiny, Small, Medium, Large, Huge) - Explosion Style (None, Tiny, Small, Medium, Large, Huge)
+Hitrost strelanja (v mililekundah) - Shooting Speed (in miliseconds) (1000ms = 1s) 
+Velikost metka (Small, Large, Huge) - Bullet Size (Small, Large, Huge)
+Moè metka - Bullet strength
+Hitrost premikanja metka - Bullet Speed
+Velikost seržerja - Clip size
+Kok traja d se reloada - Reload time

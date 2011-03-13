@@ -1,0 +1,31 @@
+object Game: TGame
+  Left = 31
+  Top = 190
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'DjukNjuk'
+  ClientHeight = 87
+  ClientWidth = 107
+  Color = clBlack
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -10
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDefault
+  Scaled = False
+  Visible = True
+  WindowState = wsMaximized
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyDown = FormKeyDown
+  OnKeyPress = FormKeyPress
+  OnKeyUp = FormKeyUp
+  OnMouseDown = FormMouseDown
+  OnMouseUp = FormMouseUp
+  OnMouseWheelDown = FormMouseWheelDown
+  OnMouseWheelUp = FormMouseWheelUp
+  PixelsPerInch = 96
+  TextHeight = 13
+end
